@@ -1,8 +1,4 @@
 # excalidraw-claymate
-<<<<<<< HEAD
-excalidraw-claymate
-=======
-
 <table><tr><td>
 <img alt="excalidraw-claymate" src="https://user-images.githubusercontent.com/490574/84717128-eedfbf80-afaf-11ea-82e4-d4c601136b9a.gif" width="50%" />
 </td></tr></table>
@@ -51,4 +47,3 @@ Notes:
 - [Excalidraw Animate](https://github.com/dai-shi/excalidraw-animate)
 - [Excalidraw Gallery](https://github.com/dai-shi/excalidraw-gallery)
 - [Excalidraw Layers](https://github.com/dai-shi/excalidraw-layers)
->>>>>>> first push
